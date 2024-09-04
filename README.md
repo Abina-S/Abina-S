@@ -8,11 +8,11 @@
 
 <!-- Right-aligned coding GIF -->
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
-<!-- GitHub Profile Trophy with Colorful Theme -->
-<p align="left"> 
+<!-- Custom GitHub Profile Trophy -->
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abina-s&theme=dracula&no-frame=true&column=7&margin-w=15" alt="abina-s" />
-  </a> 
+    <img src="https://github-profile-trophy.vercel.app/?username=abina-s&theme=dracula&no-frame=true&column=7&margin-w=15&rank=A%3B21pt%3BExperience%3BIntermediate%20Dev%3B11pt%3BFollowers%3BMany%20Friends%3B13pt%3BCommits%3BFirst%20Commit%3B2pt%3BPullRequest%3BFirst%20Pull%3B1pt%3BReviews%3BNew%20Reviewer%3B1pt%3BStars%3BUnknown%3B0pt%3BIssues" alt="abina-s" />
+  </a>
 </p>
 
 - 🌱 I’m currently learning **JavaScript frameworks**
