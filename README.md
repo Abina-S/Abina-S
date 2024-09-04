@@ -8,7 +8,7 @@
 
 <!-- Right-aligned coding GIF -->
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abina-s&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
