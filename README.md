@@ -1,4 +1,4 @@
-<img src="(https://imgur.com/Sh7MBbu)" width="1000" height="300" align="center">
+<img src="https://imgur.com/Sh7MBbu" width="1000" height="300" align="center">
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
 
 # 💫 About Me:
