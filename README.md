@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/4345usF" width="1000" height="300" align="center">
+<img src="https://github.com/Abina-S/Abina-S/blob/main/Welcome%20to%20My%20GitHub%20Profile%20(1)%20(1).gif" width="1000" height="300" align="center">
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
 
 # 💫 About Me:
