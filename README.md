@@ -10,7 +10,6 @@
 ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=plastic&logo=android&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=plastic&logo=git&logoColor=white)
@@ -27,7 +26,6 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=plastic&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=plastic&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=react&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-%23004E74.svg?style=plastic&logo=seaborn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white)
 
