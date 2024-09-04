@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)]
+![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h3>Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave gif"/> I am Abina S</h3>
 
 <h3 align="center">Aspiring Software Developer</h3>
