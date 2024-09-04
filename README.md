@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
 
 # 💫 About Me:
 🔭 I’m currently learning JavaScript frameworks and exploring web development<br>👯 I’m looking to collaborate on web development projects and learn more about full-stack development<br>
