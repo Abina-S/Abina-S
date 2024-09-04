@@ -8,12 +8,9 @@
 
 <!-- Right-aligned coding GIF -->
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
-<!-- GitHub Profile Trophy with Colorful Theme -->
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abina-s&theme=dracula&no-frame=true&column=7&margin-w=15" alt="abina-s" />
-  </a> 
-</p>
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abina-s&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 - 🌱 I’m currently learning **JavaScript frameworks**
 
